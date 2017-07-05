@@ -20,7 +20,7 @@ namespace arraypractice
             //Console.WriteLine(myLastName[0]);
             //Console.WriteLine(myLastName[3]);
             //Console.WriteLine(myLastName[1]);
-           
+
             ////create following arrays and print using the correct index numbers
             ////array of top 10 vacation spots
             ////print array of the first and last vacation spots
@@ -41,7 +41,25 @@ namespace arraypractice
             //for (int i = 0; i < letter.Length; i++)
             //    Console.Write(letter[i] + ", ");
 
+            //dataType[] nameOfArray = new dataType[#ofElements];
+            int[] numberOfSeats = new int[21];
+            string[] studentsInClass = new string[21];
+            //nameOfArray[index] = element;
+            studentsInClass[0] = "Jay";
 
+            Console.WriteLine("Please enter in the name of next student.");
+            studentsInClass[1] = Console.ReadLine();
+            Console.WriteLine("The student in the second seat is {0}.", studentsInClass[1]);
+            //ask user for input
+            Console.WriteLine("Please enter the age of the person in the first seat.");
+            //create new int array with 21 spots 
+            int[] ageOfStudents = new int[21];
+            //assign value of the int at the 0 index of ageOfStudents to...
+            ageOfStudents[0] = int.Parse(Console.ReadLine());
+            Console.WriteLine("The age of the student in the first seat is " + ageOfStudents[0]);
+            //create new string variable and set it equal to the int at the index of 0...
+            //convert into string
+            string firstIndex = ageOfStudents[0].ToString();
             
         
 

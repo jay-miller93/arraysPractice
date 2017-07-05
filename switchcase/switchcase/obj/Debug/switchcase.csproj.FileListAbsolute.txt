@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\switchcase\switchcase\bin\Debug\switchcase.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\switchcase\switchcase\bin\Debug\switchcase.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\switchcase\switchcase\bin\Debug\switchcase.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\switchcase\switchcase\obj\Debug\switchcase.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\switchcase\switchcase\obj\Debug\switchcase.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\switchcase\switchcase\obj\Debug\switchcase.pdb

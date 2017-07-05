@@ -1,6 +1,0 @@
-c:\users\wecancodeit\documents\visual studio 2015\Projects\donationTracker\donationTracker\bin\Debug\donationTracker.exe.config
-c:\users\wecancodeit\documents\visual studio 2015\Projects\donationTracker\donationTracker\bin\Debug\donationTracker.exe
-c:\users\wecancodeit\documents\visual studio 2015\Projects\donationTracker\donationTracker\bin\Debug\donationTracker.pdb
-c:\users\wecancodeit\documents\visual studio 2015\Projects\donationTracker\donationTracker\obj\Debug\donationTracker.csprojResolveAssemblyReference.cache
-c:\users\wecancodeit\documents\visual studio 2015\Projects\donationTracker\donationTracker\obj\Debug\donationTracker.exe
-c:\users\wecancodeit\documents\visual studio 2015\Projects\donationTracker\donationTracker\obj\Debug\donationTracker.pdb

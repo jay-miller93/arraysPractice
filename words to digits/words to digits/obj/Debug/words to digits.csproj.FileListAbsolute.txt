@@ -1,5 +1,0 @@
-c:\users\wecancodeit\documents\visual studio 2015\Projects\words to digits\words to digits\bin\Debug\words to digits.exe.config
-c:\users\wecancodeit\documents\visual studio 2015\Projects\words to digits\words to digits\bin\Debug\words to digits.exe
-c:\users\wecancodeit\documents\visual studio 2015\Projects\words to digits\words to digits\bin\Debug\words to digits.pdb
-c:\users\wecancodeit\documents\visual studio 2015\Projects\words to digits\words to digits\obj\Debug\words to digits.exe
-c:\users\wecancodeit\documents\visual studio 2015\Projects\words to digits\words to digits\obj\Debug\words to digits.pdb
